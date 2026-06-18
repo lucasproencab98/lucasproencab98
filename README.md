@@ -8,11 +8,11 @@
 
 ## 🚀 Sobre mim
 
-Sou um profissional com experiência em liderança de equipes e atualmente em transição para a área de Tecnologia da Informação.
+Sou Técnico em Informática pelo SENAC e graduando em Análise e Desenvolvimento de Sistemas pela FACENS.
 
-Tenho conhecimentos em lógica de programação, desenvolvimento de sistemas em C e Java, e estou focado em evoluir como desenvolvedor, aplicando soluções práticas e eficientes.
+Possuo experiência em liderança de equipes, atuação em ambientes complexos, suporte de TI, infraestrutura, redes e manutenção de computadores. Atualmente, estou direcionando minha carreira para o desenvolvimento de software, buscando unir minha experiência prática em tecnologia à criação de soluções eficientes e escaláveis.
 
-Minha experiência anterior me proporcionou habilidades como disciplina, resolução de problemas e tomada de decisão sob pressão, que hoje aplico no desenvolvimento de software.
+Tenho perfil analítico, gosto de resolver problemas e estou sempre aprendendo novas tecnologias.
 
 ---
 
@@ -49,10 +49,12 @@ Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecime
 
 ## 📫 Contato
 
-📧 Email: [lucas.proencab98@gmail.com](mailto:lucas.proencab98@gmail.com)
+📧 Email: mailto:lucas.proencab98@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/lucasproencabatista
 
 ---
 
-⭐ Sempre em evolução | Foco, disciplina e consistência
+⭐ Sempre em evolução | Postura, disciplina e consistência
+
+
 
