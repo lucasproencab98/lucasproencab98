@@ -2,6 +2,7 @@
 
 🎯 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Desenvolvedor em formação (C | Java)
+💻 Técnico em Informática
 📍 Sorocaba - SP
 
 ---
