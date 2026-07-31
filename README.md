@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Proença
 
-# Olá, eu sou Lucas Proença Batista 👋
+# Olá 👋
 
 ## Sobre mim
 
