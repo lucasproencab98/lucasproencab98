@@ -87,7 +87,7 @@ Desenvolvimento de aplicações e sites utilizando tecnologias web, com foco em:
 
 Projetos desenvolvidos:
 
-🔹 Proença Informática  
+🔹 Proantech Informática  
 Website institucional desenvolvido para apresentação de serviços de tecnologia.
 
 🔹 Kramer Parfum  
