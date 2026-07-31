@@ -1,61 +1,137 @@
 # 👨‍💻 Lucas Proença
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor em formação (C | Java)
-💻 Técnico em Informática
-📍 Sorocaba - SP
+# Olá, eu sou Lucas Proença Batista 👋
+
+## Sobre mim
+
+Sou profissional de Tecnologia da Informação, formado como Técnico em Informática pelo SENAC e atualmente graduando em Análise e Desenvolvimento de Sistemas pela FACENS.
+
+Possuo experiência em suporte técnico, infraestrutura de TI, manutenção de computadores, redes, atendimento a usuários e resolução de problemas em ambientes corporativos.
+
+Além da área de suporte, venho desenvolvendo projetos de software e aplicações web, buscando evoluir constantemente em programação, desenvolvimento de sistemas e novas tecnologias.
+
+Tenho interesse em:
+- Desenvolvimento de Software
+- Infraestrutura de TI
+- Automação de processos
+- Desenvolvimento Web
+- Banco de Dados
+- Soluções tecnológicas para problemas reais
 
 ---
 
-## 🚀 Sobre mim
+## 🛠️ Tecnologias e conhecimentos
 
-Sou Técnico em Informática pelo SENAC e graduando em Análise e Desenvolvimento de Sistemas pela FACENS.
+### Desenvolvimento
+- C
+- Java
+- C#
+- HTML
+- CSS
+- JavaScript
+- SQL
 
-Possuo experiência em liderança de equipes, atuação em ambientes complexos, suporte de TI, infraestrutura, redes e manutenção de computadores. Atualmente, estou direcionando minha carreira para o desenvolvimento de software, buscando unir minha experiência prática em tecnologia à criação de soluções eficientes e escaláveis.
+### Desenvolvimento Web
+- Criação de páginas responsivas
+- Interfaces de usuário
+- Landing Pages
+- Sistemas web
+- Integração com ferramentas modernas de desenvolvimento
 
-Tenho perfil analítico, gosto de resolver problemas e estou sempre aprendendo novas tecnologias.
+### Infraestrutura e Suporte
+- Windows 10/11
+- Manutenção de computadores
+- Instalação e configuração de sistemas
+- Redes TCP/IP
+- Cabeamento estruturado
+- Configuração de periféricos
+- Troubleshooting de hardware e software
+- Suporte remoto (AnyDesk)
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-* Linguagens: C | Java
-* Versionamento: Git | GitHub
-* Conceitos: Lógica de Programação | Estruturas de Dados (básico)
-* Metodologias: Resolução de problemas | Pensamento analítico
-
----
-
-## 📂 Projetos
-
-### 🛒 Sistema de Vendas em C
-
-Sistema completo desenvolvido em linguagem C com funcionalidades de:
-
-* Cadastro de produtos
-* Exclusão de produtos
-* Registro de vendas
-* Geração de recibos
-* Persistência de dados (salvamento mesmo após fechar o sistema)
-
-🔗 Em breve mais projetos...
-
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos, adquirir experiência prática e evoluir profissionalmente na área de tecnologia.
+### Ferramentas
+- Git
+- GitHub
+- Figma
+- Vercel
+- Microsoft Office
 
 ---
 
-## 📫 Contato
+# 🚀 Projetos
 
-📧 Email: mailto:lucas.proencab98@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/lucasproencabatista
+## Sistema de Vendas em C
+
+Sistema desenvolvido em linguagem C com foco em lógica de programação e estruturação de software.
+
+Funcionalidades:
+- Cadastro de produtos
+- Registro de vendas
+- Geração de recibos
+- Manipulação de dados
+- Organização de informações
+
+Tecnologias:
+- Linguagem C
 
 ---
 
-⭐ Sempre em evolução | Postura, disciplina e consistência
+## Projetos Web
+
+Desenvolvimento de aplicações e sites utilizando tecnologias web, com foco em:
+
+- Estruturação de páginas
+- Design responsivo
+- Experiência do usuário
+- Organização visual
+- Publicação de projetos online
+
+Projetos desenvolvidos:
+
+🔹 Proença Informática  
+Website institucional desenvolvido para apresentação de serviços de tecnologia.
+
+🔹 Kramer Parfum  
+E-commerce de perfumes com interface moderna, catálogo de produtos e integração para atendimento via WhatsApp.
+
+---
+
+# 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+FACENS — Em andamento
+
+**Técnico em Informática**  
+SENAC Sorocaba
+
+Cursos complementares:
+- Desenvolvedor de Sistemas
+- Webdesigner
+- Assistente de Operação de Redes de Computadores
+- Assistente de Suporte e Manutenção de Computadores
+
+---
+
+# 📚 Atualmente estudando
+
+- Desenvolvimento de sistemas
+- Estrutura de dados
+- Banco de dados
+- Boas práticas de programação
+- Infraestrutura de TI
+- Novas tecnologias aplicadas à área de tecnologia
+
+---
+
+# 📫 Contato
+
+LinkedIn:
+https://www.linkedin.com/in/lucasproencabatista
+
+GitHub:
+https://github.com/lucasproencab98
+
+
+⭐ Sempre em evolução | Disciplina e Honra
 
 
 
