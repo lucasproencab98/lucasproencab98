@@ -23,20 +23,10 @@ Tenho interesse em:
 ## 🛠️ Tecnologias e conhecimentos
 
 ### Desenvolvimento
-- C
 - Java
 - C#
-- HTML
-- CSS
-- JavaScript
 - SQL
 
-### Desenvolvimento Web
-- Criação de páginas responsivas
-- Interfaces de usuário
-- Landing Pages
-- Sistemas web
-- Integração com ferramentas modernas de desenvolvimento
 
 ### Infraestrutura e Suporte
 - Windows 10/11
